@@ -1,0 +1,36 @@
+_repo: Vedenpaisumus-II_72821
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Trast, V. K.
+    alias: Trast, Viktor Kustaa
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '43556'
+    url: http://www.gutenberg.org/2009/agents/43556
+    wikipedia: https://fi.wikipedia.org/wiki/V._K._Trast
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: https://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72821'
+language: fi
+pgterms:marc905: 20240112021808sienkiewic
+pgterms:marc906: '1926'
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $bOtava, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vedenpaisumus II
+url: http://www.gutenberg.org/ebooks/72821
